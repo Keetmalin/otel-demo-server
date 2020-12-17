@@ -1,5 +1,5 @@
 # otel-demo-server
-Example applicaition along with a [client appliacation] (https://github.com/Keetmalin/otel-demo-client)
+Example applicaition along with a [client appliacation](https://github.com/Keetmalin/otel-demo-client)
 to exaplin the use of OpenTelemetry Java instrumentation
 
 This applicaiton expects that a openTelemetry collector running on localhost:55680
